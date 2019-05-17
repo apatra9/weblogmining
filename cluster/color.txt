@@ -1,0 +1,2 @@
+ /wp-includes/js/jquery/jquery.color.dev.js 
+ /wp-includes/js/jquery/jquery.color.js 

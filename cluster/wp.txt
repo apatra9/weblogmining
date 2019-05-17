@@ -1,0 +1,3 @@
+ /wp-includes/functions.wp-styles.php 
+ /wp-includes/functions.wp-scripts.php 
+ /wp-config? 
